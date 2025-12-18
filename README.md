@@ -92,7 +92,7 @@ Mostly. The i370 compiler and assembler continued to receive patches
 from Paul Edwards, Dave Pitts and others: the compiler and assembler
 were also used in other projects, mostly relating to MVS.
 
-Recently, I was contacted, and asked if I could revive the project.
+Recently, I was contacted (by Paul Edwards), and asked if I could revive the project.
 I don't know that I want to: its not as if I don't have enough to do,
 and enough interests to indulge. But what the heck, how hard can this
 be? Just a little bit more work, and bingo, we're back.
